@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\abc\abc\bin\Debug\abc.exe.config
+C:\Users\Lenovo\source\repos\abc\abc\bin\Debug\abc.exe
+C:\Users\Lenovo\source\repos\abc\abc\bin\Debug\abc.pdb
+C:\Users\Lenovo\source\repos\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\abc\abc\obj\Debug\abc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\abc\abc\obj\Debug\abc.exe
+C:\Users\Lenovo\source\repos\abc\abc\obj\Debug\abc.pdb
